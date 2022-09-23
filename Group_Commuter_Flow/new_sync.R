@@ -31,9 +31,9 @@ require(openrouteservice)
 
 
 #link Census API
-census_api_key("3512745ec9581f08c671990c65ddb6098d49ac0f", install = TRUE, overwrite = TRUE)
+census_api_key("3**********f08c671990c65ddb6098d49ac0f", install = TRUE, overwrite = TRUE)
 #link openrouteservice key
-ors_api_key("5b3ce3597851110001cf6248e31c71cc118345ee9904d79b28c6c0dd", service = "openrouteservice", username = "JJSORS")
+ors_api_key("5b3ce3597****************118345ee9904d79b28c6c0dd", service = "openrouteservice", username = "JJSORS")
 
 #connect file path
 path = file.path("C:\\Users\\u1324421\\Documents\\CMP6455\\GIS_LAb\\Project work (group)\\Data")
